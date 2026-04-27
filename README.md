@@ -1,4 +1,4 @@
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Dashboard1.png)
 
 # Adventure Works Customer Details
 ## Project Overview
