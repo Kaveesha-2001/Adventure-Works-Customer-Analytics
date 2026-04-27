@@ -1,6 +1,6 @@
 ![Dashboard Screenshot](Dashboard1.png)
 
-# Adventure Works Customer Details
+# Adventure Works Customer Analytics 
 ## Project Overview
 This repository contains a Power BI project analyzing customer behavior and sales trends. The goal was to transform raw data into actionable business insights.
 
